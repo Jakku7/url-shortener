@@ -19,7 +19,7 @@ form = '''<!DOCTYPE html>
         <input name="shortname">
     </label>
     <br>
-    <button type="submit">Save it!</button>
+    <button type="submit">Save it.</button>
 </form>
 <p>URIs I know about:
 <pre>
