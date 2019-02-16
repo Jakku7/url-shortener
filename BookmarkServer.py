@@ -9,7 +9,7 @@ from urllib.parse import unquote, parse_qs
 memory = {}
 
 form = '''<!DOCTYPE html>
-<title>Bookmark Server</title>
+<title>Bookmark Server test</title>
 <form method="POST">
     <label>Long URI:
         <input name="longuri">
